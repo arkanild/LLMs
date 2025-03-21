@@ -1,4 +1,5 @@
-A utility to tailor your resumes based on a particular job description. It connects to an open source LLM, takes your resume and the job description as an input 
+OVERVIEW: 
+An utility to tailor your resumes based on a particular job description. It connects to an open source LLM, takes your resume and the job description as an input 
 and produces a tailored resume in doc format. Using this one can apply to multiple job positions and tailor their resumes based on 
 specific job description. 
 Happy(job) Hunting!!
@@ -15,6 +16,8 @@ This gives the user the flexibility to create prompts like they would incase of 
 Architecture diagram:
 
 
+
+executable python script, for people not handy on Jupyter notebooks - https://github.com/arkanild/LLMs/blob/main/smart_resume/smart_resume.py
 
 TO DO : 
 1. UI for submitting the inputs and JD.
