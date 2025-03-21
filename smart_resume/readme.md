@@ -19,7 +19,7 @@ ARCHITECTURE DIAGRAM:
 
 
 
-Executable python script, for people not handy on Jupyter notebooks - [Smart_resume.py](https://github.com/arkanild/LLMs/blob/main/smart_resume/smart_resume.py)
+Executable python script, for people not handy with Jupyter notebooks - [Smart_resume.py](https://github.com/arkanild/LLMs/blob/main/smart_resume/smart_resume.py)
 
 TO DO : 
 1. UI for submitting the inputs and JD.
