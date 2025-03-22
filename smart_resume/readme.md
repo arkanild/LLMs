@@ -1,19 +1,17 @@
-OVERVIEW: 
+OVERVIEW
 
-An utility to tailor your resumes based on a particular job description. It connects to an open source LLM, takes your resume and the job description as an input 
-and produces a tailored resume in doc format. Using this one can apply to multiple job positions and tailor their resumes based on 
-specific job description. 
-Happy(job) Hunting!!
+A utility to tailor your resumes based on a specific job description. It connects to an open-source LLM, takes your resume and the job description as inputs, and generates a tailored resume in DOC format. This allows users to efficiently apply to multiple job positions with resumes customized for each role.
 
-HOW IT WORKS:
+Happy (Job) Hunting! 🎯
 
-The system asks for a resume in pdf format and input the Job description of the chosen job that you want to apply. 
-It then takes up both these inputs and sends a structured prompt specific to an LLM in the huggingface open library. 
-It uses the Inference API of the huggingface library. You would need to generate a token and authenticate yourself into huggingface repo. 
-Some models are gatekeeped and require additional permissions, you can easily switch the model if you have these permissions. 
 
-The prompt through prompt engineering is structured in such a way that you are able to toggle the parameters(temparature, max_new_tokens, etc).
-This gives the user the flexibility to create prompts like they would incase of a local model run on pyTorch or Tensorflow. 
+HOW DOES IT DO IT? 
+
+Upload Your Resume – Provide your resume in PDF format.
+Enter the Job Description – Input the job description for the position you're applying for.
+AI-Powered Customization – The system processes both inputs and sends a structured prompt to an LLM available on Hugging Face.
+Inference API – Uses Hugging Face’s Inference API, requiring a token for authentication. Some models are gated and may need additional permissions, but you can switch models if you have the required access.
+Customizable Parameters – Through prompt engineering, you can adjust parameters such as temperature, max_new_tokens, etc., giving you flexibility similar to running a local model on PyTorch or TensorFlow.
 
 ARCHITECTURE DIAGRAM:
 
@@ -22,7 +20,7 @@ ARCHITECTURE DIAGRAM:
 Executable python script, for people not handy with Jupyter notebooks - [Smart_resume.py](https://github.com/arkanild/LLMs/blob/main/smart_resume/smart_resume.py)
 
 TO DO : 
-1. UI for submitting the inputs and JD.
-2. Output can be derived in any format given by the user. 
+✅ UI for Input Submission – A user-friendly interface for uploading resumes and entering job descriptions.
+✅ Customizable Output Formats – Allow users to choose the output format (DOC, PDF, etc.).
 
 
