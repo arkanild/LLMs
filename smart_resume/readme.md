@@ -17,7 +17,8 @@ Customizable Parameters – Through prompt engineering, you can adjust parameter
 
 
 
-## Executable python script, for people not handy with Jupyter notebooks - [Smart_resume.py](https://github.com/arkanild/LLMs/blob/main/smart_resume/smart_resume.py)
+### Executable python script, for people not handy with Jupyter notebooks - 
+[Smart_resume.py](https://github.com/arkanild/LLMs/blob/main/smart_resume/smart_resume.py)
 
 # TO DO : 
 1. UI for Input Submission – A user-friendly interface for uploading resumes and entering job descriptions.
