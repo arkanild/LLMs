@@ -1,0 +1,8 @@
+markdownify
+pypdf
+transformers
+huggingface_hub
+reportlab
+markdown
+torch
+pandas
