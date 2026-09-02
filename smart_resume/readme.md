@@ -15,7 +15,7 @@ Customizable Parameters – Through prompt engineering, you can adjust parameter
 
 
 ## ARCHITECTURE DIAGRAM:
-
+![Alt Text] <img width="802" height="442" alt="Smart Resume drawio" src="https://github.com/user-attachments/assets/54f9188d-97c1-4c48-a08c-e98e1cf3a681" />
 
 
 ### Executable python script, for people not handy with Jupyter notebooks - 
