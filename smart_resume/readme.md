@@ -13,6 +13,7 @@ AI-Powered Customization – The system processes both inputs and sends a struct
 Inference API – Uses Hugging Face’s Inference API, requiring a token for authentication. Some models are gated and may need additional permissions, but you can switch models if you have the required access.
 Customizable Parameters – Through prompt engineering, you can adjust parameters such as temperature, max_new_tokens, etc., giving you flexibility similar to running a local model on PyTorch or TensorFlow.
 
+
 ## ARCHITECTURE DIAGRAM:
 
 
@@ -21,7 +22,7 @@ Customizable Parameters – Through prompt engineering, you can adjust parameter
 [Smart_resume.py](https://github.com/arkanild/LLMs/blob/main/smart_resume/smart_resume.py)
 
 ## TO DO : 
-1. UI for Input Submission – A user-friendly interface for uploading resumes and entering job descriptions.
-2. Customizable Output Formats – Allow users to choose the output format (DOC, PDF, etc.).
+1. ~NO UI~. Use it as a lame widget in your PC. Just install the .exe file. 
+2. Customizable Output Formats – Allow users to choose the output format (DOC/DOCx, PDF, etc.).
 
 
